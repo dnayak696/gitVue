@@ -1,6 +1,6 @@
 # gitVue
 
-  For client:
+ <h2> For client:</h2>
       cd client
       npm install
       npm run serve
