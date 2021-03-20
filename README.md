@@ -1,12 +1,20 @@
 # gitVue
 
  <h2> For client:</h2>
-      cd client
-      npm install
-      npm run serve
+    <ul>
+ <li>cd client</li>
+  <li>npm install</li>
+  <li> npm run serve</li>
+</ul>  
       
-  For Server :
-       cd server
-       npm install
-       npm run start
+     
+      
+ <h2> For Server :</h2>
+     <ul>
+ <li>cd server</li>
+  <li>npm install</li>
+  <li>npm run start</li>
+</ul> 
+    
+       
        
